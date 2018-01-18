@@ -1,0 +1,5 @@
+https://mdbootstrap.com/angular/
+
+https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065
+
+https://pt.stackoverflow.com/questions/148753/como-usar-as-tais-tags-sem%C3%A2nticas/152265
